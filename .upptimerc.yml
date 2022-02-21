@@ -3,17 +3,17 @@ owner: edcalderon # Your GitHub organization or username, where this repository 
 repo: uptime_wayru # The name of this repository
 
 sites:
-  - name: Main Wayru.io
+  - name: dapp.wayru.io
     url: https://www.dapp.wayru.io
-  - name: Test Wayru.io
+  - name: testnet.wayru.io
     url: https://www.testnet.wayru.io
-  - name: Internal Test
+  - name: internal.wayru.co
     url: https://www.internal.wayru.co
-  - name: Main Api
+  - name: wayru.herokuapp.com
     url: https://wayru.herokuapp.com
-  - name: Test Api
+  - name: api.develop.wayru.co
     url: https://api.develop.wayru.co
-  - name: Internal test Api
+  - name: api.internal.wayru.co
     url: https://api.internal.wayru.co
 
 status-website:
