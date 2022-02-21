@@ -23,7 +23,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://res.cloudinary.com/djuadjpv0/image/upload/v1645485367/wayru_logo.89f2b60b_vkdebj.png
   name: Status Page
-  introTitle: "**Upptime** uptime monitor and status page for the Wayru Network projects"
+  introTitle: "Uptime monitor and status page for the Wayru Network projects"
   introMessage: ""
   navbar:
     - title: Status
