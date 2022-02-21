@@ -9,7 +9,7 @@ sites:
     url: https://www.testnet.wayru.io
   - name: Internal Test
     url: https://www.internal.wayru.co
-  - name: Main Api (soon)
+  - name: Main Api
     url: https://api.wayru.co
   - name: Main Api
     url: https://wayru.herokuapp.com
