@@ -1,28 +1,34 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: edcalderon # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Main Wayru.io
+    url: https://www.dapp.wayru.io
+  - name: Test Wayru.io
+    url: https://www.testnet.wayru.io
+  - name: Internal Test
+    url: https://www.internal.wayru.co
+  - name: Main Api (soon)
+    url: https://api.wayru.co
+  - name: Main Api
+    url: https://wayru.herokuapp.com
+  - name: Test Api
+    url: https://api.develop.wayru.co
+  - name: Internal test Api
+    url: https://api.internal.wayru.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.wayru.co
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Status Wayru Net
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: Status Wayru
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
