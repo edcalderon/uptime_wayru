@@ -7,8 +7,6 @@ sites:
     url: https://www.dapp.wayru.io
   - name: Test Wayru.io
     url: https://www.testnet.wayru.io
-  - name: Main api
-    url: https://www.api.wayru.io
   - name: Internal Test
     url: https://www.internal.wayru.co
   - name: Main Api
