@@ -16,7 +16,7 @@ sites:
   - name: api.internal.wayru.co
     url: https://api.internal.wayru.co
   - name: develop.network.wayru.co/graphql
-    url: https://develop.network.wayru.co/graphql
+    url: https://develop.network.wayru.co/health
     assignees:
       - esfxra
 
