@@ -17,6 +17,8 @@ sites:
     url: https://api.internal.wayru.co
   - name: develop.network.wayru.co/graphql
     url: https://develop.network.wayru.co/graphql
+    assignees:
+      - esfxra
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
