@@ -24,6 +24,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.wayru.co
+  theme: dark
   # baseUrl: /your-repo-name
   logoUrl: https://res.cloudinary.com/djuadjpv0/image/upload/v1645485367/wayru_logo.89f2b60b_vkdebj.png
   name: Status Page
