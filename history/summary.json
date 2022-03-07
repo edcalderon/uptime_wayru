@@ -40,17 +40,17 @@
     "url": "https://www.internal.wayru.co",
     "icon": "https://favicons.githubusercontent.com/www.internal.wayru.co",
     "slug": "internal-wayru-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "97.19%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 470,
-    "timeDay": 412,
-    "timeWeek": 317,
-    "timeMonth": 470,
-    "timeYear": 470,
+    "time": 460,
+    "timeDay": 358,
+    "timeWeek": 305,
+    "timeMonth": 460,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2022-03-07": 40
     }
