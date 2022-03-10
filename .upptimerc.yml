@@ -3,35 +3,35 @@ owner: edcalderon # Your GitHub organization or username, where this repository 
 repo: uptime_wayru # The name of this repository
 
 sites:
-  - name: dapp.wayru.io
+  - name: dapp wayru io
     url: https://www.dapp.wayru.io
-  - name: testnet.wayru.io
+  - name: testnet wayru io
     url: https://www.testnet.wayru.io
-  - name: internal.wayru.co
+  - name: internal wayru co
     url: https://www.internal.wayru.co
-  - name: wayru.herokuapp.com
+  - name: wayru herokuapp com
     url: https://wayru.herokuapp.com
-  - name: api.develop.wayru.co
+  - name: api develop wayru co
     url: https://api.develop.wayru.co
-  - name: api.internal.wayru.co
+  - name: api internal wayru co
     url: https://api.internal.wayru.co
-  - name: develop.network.wayru.co/graphql
+  - name: develop network wayru co graphql
     url: https://develop.network.wayru.co/health
     assignees:
       - esfxra
-  - name: https://uisp.wayru.net/
-    url: https://uisp.wayru.net/
+  - name: unifi wayru
+    url: http://unifi.wayru.net/
     assignees:
       - esfxra
-  - name: unifi.wayru.net
-    url: unifi.wayru.net
+  - name: uisp wayru net
+    url: http://uisp.wayru.net
     assignees:
       - esfxra
-  - name: splash.wayru.net
+  - name: splash wayru net
     url: splash.wayru.net
     assignees:
       - esfxra
-  - name: api.wayru.net/graphql
+  - name: api wayru net graphql
     url: api.wayru.net/health
     assignees:
       - esfxra
