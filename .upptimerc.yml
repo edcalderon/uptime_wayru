@@ -19,6 +19,22 @@ sites:
     url: https://develop.network.wayru.co/health
     assignees:
       - esfxra
+  - name: https://uisp.wayru.net/
+    url: https://uisp.wayru.net/
+    assignees:
+      - esfxra
+  - name: unifi.wayru.net
+    url: unifi.wayru.net
+    assignees:
+      - esfxra
+  - name: splash.wayru.net
+    url: splash.wayru.net
+    assignees:
+      - esfxra
+  - name: api.wayru.net/graphql
+    url: api.wayru.net/graphql
+    assignees:
+      - esfxra
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
