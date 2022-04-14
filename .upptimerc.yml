@@ -27,6 +27,11 @@ sites:
     url: http://uisp.wayru.net
     assignees:
       - esfxra
+  - name: ipsf gateway
+    url: http://ec2-3-143-111-85.us-east-2.compute.amazonaws.com:8080
+    assignees:
+      - esfxra
+      - edcalderon
   - name: splash.wayru.net
     url: splash.wayru.net
     assignees:
