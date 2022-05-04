@@ -61,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/wayru.herokuapp.com",
     "slug": "wayru-herokuapp-com",
     "status": "up",
-    "uptime": "83.74%",
+    "uptime": "83.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "53.13%",
+    "uptimeWeek": "54.07%",
     "uptimeMonth": "84.12%",
-    "uptimeYear": "83.74%",
+    "uptimeYear": "83.75%",
     "time": 659,
     "timeDay": 288,
     "timeWeek": 1749,
@@ -235,9 +235,9 @@
     "url": "https://gateway.wayru.co/",
     "icon": "https://favicons.githubusercontent.com/gateway.wayru.co",
     "slug": "gateway-wayru-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -247,6 +247,7 @@
     "timeMonth": 518,
     "timeYear": 518,
     "dailyMinutesDown": {
+      "2022-05-04": 0,
       "2022-04-18": 16
     }
   }
